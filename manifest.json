@@ -1,0 +1,33 @@
+{
+  "lastupdate": "2018-04-01",
+  "books": [
+    {
+      "title" : "A Book About Lawyers",
+      "author" : "John Cordy Jeaffreson",
+      "language" : "en",
+      "url" : "27785-h.html",
+      "lastupdate": "2018-04-01"
+    },
+    {
+      "title" : "A Book about Doctors",
+      "author" : "John Cordy Jeaffreson",
+      "language" : "en",
+      "url" : "40161-h.html",
+      "lastupdate": "2018-04-01"
+    },
+    {
+      "title" : "The Wind in the Willows",
+      "author" : "Kenneth Grahame",
+      "language" : "en",
+      "url" : "27805-h.html",
+      "lastupdate": "2018-04-01"
+    },
+    {
+      "title" : "The Story of Beowulf",
+      "author" : "Unknown",
+      "language" : "en",
+      "url" : "50742-h.html",
+      "lastupdate": "2018-04-01"
+    }
+  ]
+}
